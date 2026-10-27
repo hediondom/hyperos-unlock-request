@@ -101,7 +101,7 @@ measures or removes each of those steps:
 ## Installation
 
 ```bash
-git clone https://github.com/crapero/hyperos-unlock-request.git
+git clone https://github.com/hediondom/hyperos-unlock-request.git
 cd hyperos-unlock-request
 python -m pip install -r requirements.txt
 ```
